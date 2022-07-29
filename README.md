@@ -3,6 +3,14 @@
 <!--
 **Wangenye/Wangenye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Active On :
+
+<p>
+<a href="https://www.linkedin.com/in/simon-mwangi-382a70173" target="blank">
+  <img src="https://img.shields.io/badge/-MARTIN-141321?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
