@@ -7,7 +7,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/simon-mwangi-382a70173" target="blank">
-  <img src="https://img.shields.io/badge/-MARTIN-141321?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Simon-141321?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Active On :
+
+<p>
+<a href="https://www.linkedin.com/in/simon-mwangi-382a70173" target="blank">
+  <img src="https://img.shields.io/badge/-MARTIN-141321?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+</p>
