@@ -3,6 +3,8 @@
 <!--
 **Wangenye/Wangenye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 ## Active On :
 
 <p>
@@ -11,7 +13,7 @@
 </a>
 </p>
 
-<img src="https://img.shields.io/badge/-WangenyeSimon-008abe?style=for-the-badge&logo=Twitter&logoColor=white"/>
+
 
 
 
