@@ -11,6 +11,10 @@
 </a>
 </p>
 
+<img src="https://img.shields.io/badge/-WangenyeSimon-008abe?style=for-the-badge&logo=Twitter&logoColor=white"/>
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,6 +30,10 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://www.linkedin.com/in/simon-mwangi-382a70173" target="blank">
+  <img src="https://img.shields.io/badge/-WangenyeSimon-008abe?style=for-the-badge&logo=Twitter&logoColor=white
+"/>
+</a>
+<a href="https://twitter.com/WangenyeSimon?t=GEWPU60VyVwP5dgfmMNpEA&s=09" target="blank">
   <img src="https://img.shields.io/badge/-Simon-141321?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
