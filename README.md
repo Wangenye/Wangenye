@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   
 <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue">
 <img src="https://img.shields.io/badge/Nest-127a9b?style=for-the-badge&logo=nestjs&logoColor=e0234e">
+<img src="https://img.shields.io/badge/Typescript-0066AB?style=for-the-badge&logo=Typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Vscode-0077B5?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
