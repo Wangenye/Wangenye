@@ -3,9 +3,9 @@
 Welcome to my GitHub! I build polished, scalable web experiences that blend performance, thoughtful UI/UX, and clean code. Whether it's an e-commerce platform, SaaS dashboard, or educational product, I bring full-stack expertise and product sensibility to every project.
 
 🌐 **Portfolio**: [simonmwangi.com](https://www.simonmwangi.com)  
-🎥 **YouTube**: [Tech and Coffee](https://www.youtube.com/@techandcoffee)  
+🎥 **YouTube**: [Tech and Coffee]([https://www.youtube.com/@techandcoffee](https://youtube.com/@thecodeandcoffeeclub?si=vlFgYobuqpQNnsPN))  
 ☕ **Brand**: [Code and Coffee](https://codeandcoffeelearn.vercel.app)  
-📫 **Email**: simon@simonmwangi.com  
+📫 **Email**: wangenyesimon@gmail.com  
 
 ---
 
