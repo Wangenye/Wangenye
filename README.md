@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I build polished, scalable web experiences that blend performance, thoughtful UI/UX, and clean code. Whether it's an e-commerce platform, SaaS dashboard, or educational product, I bring full-stack expertise and product sensibility to every project.
 
-🌐 **Portfolio**: [simonmwangi.com](https://www.simonmwangi.com)  
+🌐 **Portfolio**: [simonmwangi.vercel.app](https://www.simonmwangi.vercel.app)  
 🎥 **YouTube**: [Tech and Coffee]([https://www.youtube.com/@techandcoffee](https://youtube.com/@thecodeandcoffeeclub?si=vlFgYobuqpQNnsPN))  
 ☕ **Brand**: [Code and Coffee](https://codeandcoffeelearn.vercel.app)  
 📫 **Email**: wangenyesimon@gmail.com  
@@ -34,7 +34,7 @@ I’m a passionate coffee enthusiast who merges code and caffeine through the **
   [lecraftcup-coffee.vercel.app](https://lecraftcup-coffee.vercel.app)
 
 - **Code and Coffee Learn** – Authenticated learning dashboard for developers  
-  [codeandcoffeelearn.vercel.app](https://codeandcoffeelearn.vercel.app)
+  [coffeaacademy.com](https://www.coffeaacademy.com/)
 
 - **Santos Auto Parts** – Performance-driven parts e-commerce  
   [santosautoparts.com](https://www.santosautoparts.com)
