@@ -1,84 +1,141 @@
-# 👋 Hi, I'm Simon Mwangi — Full-Stack Developer | Tech Content Creator | Coffee Enthusiast
 
-Welcome to my GitHub! I build polished, scalable web experiences that blend performance, thoughtful UI/UX, and clean code. Whether it's an e-commerce platform, SaaS dashboard, or educational product, I bring full-stack expertise and product sensibility to every project.
+# 👋 Hi, I'm Simon Mwangi
 
-🌐 **Portfolio**: [simonmwangi.com](https://www.simonmwangi.com)  
-🎥 **YouTube**: [Tech and Coffee]([https://www.youtube.com/@techandcoffee](https://youtube.com/@thecodeandcoffeeclub?si=vlFgYobuqpQNnsPN))  
-☕ **Brand**: [Code and Coffee](https://codeandcoffeelearn.vercel.app)  
-📫 **Email**:hello@simonmwangi.com  
+### Software Engineer | SaaS & Business Systems | Coffee & Technology
 
----
+I build production-ready software systems that help businesses operate better, scale efficiently, and turn ideas into working products.
 
-## 💡 What I Do
+My work spans the full product lifecycle — from understanding business problems and designing intuitive user experiences to building backend architectures, integrating payment systems, and deploying reliable applications.
 
-- 🔧 **Frontend Development**: React, Next.js (App Router), Tailwind CSS, Framer Motion  
-- 🔩 **Backend & APIs**: NestJS, REST, PostgreSQL, Firebase, MongoDB  
-- 🧠 **State Management**: React Query, Zustand, Redux Toolkit  
-- 🛠️ **Tooling**: Docker, Vercel, GitHub Actions  
-- 💳 **Integrations**: Stripe, Firebase Auth, Contentful CMS  
-- 🧑‍💻 **UI/UX Design**: Minimalist, conversion-driven, and guided by behavioral psychology
+I'm particularly interested in the intersection of **software engineering, business operations, African commerce, and specialty coffee technology.**
+
+🌐 **Portfolio:** [simonmwangi.com](https://www.simonmwangi.com/)  
+💼 **LinkedIn:** [Simon Mwangi](https://www.linkedin.com/in/simon-mwangi-382a70173/)  
+🎥 **YouTube:** [Code and Coffee Club](https://youtube.com/@thecodeandcoffeeclub)  
+☕ **Coffee & Technology:** [coffee.simonmwangi.com](https://coffee.simonmwangi.com/)  
+📫 **Email:** [hello@simonmwangi.com](mailto:hello@simonmwangi.com)
 
 ---
 
-## ☕ Code and Coffee
+## 💡 What I Build
 
-I’m a passionate coffee enthusiast who merges code and caffeine through the **Code and Coffee** brand — a space where tech, learning, and lifestyle intersect. From brewing the perfect cup to building the perfect feature, it’s all about clarity, flow, and craftsmanship.
+I focus on solving practical business and product challenges through software.
 
-> "Fueling clean code with great coffee."
+- **SaaS & MVP Development** — Turning product ideas into production-ready applications.
+- **Custom Business Systems** — Automating manual workflows and improving business operations.
+- **E-commerce Platforms** — Building digital commerce experiences, ordering systems, and payment workflows.
+- **Backend & API Engineering** — Designing reliable APIs, databases, and application architectures.
+- **Payment Integrations** — Working with Stripe, Paystack, and M-Pesa integrations.
+- **System Architecture** — Building maintainable applications designed to evolve with business needs.
 
----
+## 🛠️ Technology Stack
 
-## 🔥 Notable Projects
+**Frontend**
+- JavaScript & TypeScript
+- React.js
+- Next.js (App Router)
+- Tailwind CSS
+- Framer Motion
 
-- **Lecraftcup Coffee** – Full-stack coffee e-commerce experience  
-  [lecraftcup-coffee.vercel.app](https://lecraftcup-coffee.vercel.app)
+**Backend & APIs**
+- Node.js
+- NestJS
+- REST APIs
+- TypeORM
+- PostgreSQL
+- MongoDB
 
-- **Code and Coffee Learn** – Authenticated learning dashboard for developers  
-  [coffeaacademy.com](https://www.coffeaacademy.com/)
+**State & Data Management**
+- TanStack Query
+- Zustand
+- Redux Toolkit
 
-- **Santos Auto Parts** – Performance-driven parts e-commerce  
-  [santosautoparts.com](https://www.santosautoparts.com)
+**Infrastructure & DevOps**
+- Docker
+- DigitalOcean
+- Vercel
+- GitHub Actions
+- BullMQ
 
----
+**Integrations & Services**
+- Stripe
+- Paystack
+- M-Pesa / Daraja
+- Firebase
+- NextAuth.js
 
-## 🧠 Currently Exploring
-
-- 📱 Mobile Dev with Flutter  
-- 🧠 AI-integrated SaaS  
-- 📊 Conversion Optimization & Analytics  
-- 🌍 Building for the Kenyan market & African commerce
-
----
-
-## 🌍 Active On
-
-<p>
-  <a href="https://www.linkedin.com/in/simon-mwangi-382a70173" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/WangenyeSimon" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-</p>
+**Product & UI/UX**
+- Figma
+- Responsive interface design
+- Design systems
+- Conversion-focused UX
+- Behavioral psychology in product design
 
 ---
 
-Let’s connect. Let’s build. Let’s brew ☕💻
+## 🚀 Selected Projects
+
+### ☕ Coffea Academy
+[coffeaacademy.com](https://www.coffeaacademy.com/)
+
+A digital learning platform focused on specialty coffee education.
+
+- Learning management system
+- Course and content management
+- Authentication and user management
+- Payment and enrolment workflows
+- Backend APIs and database architecture
+
+### 🫘 Bean Flow
+[beanflow.simonmwangi.com](https://beanflow.simonmwangi.com/)
+
+Building an e-commerce platform for coffee businesses, connecting product management, online storefronts, ordering, and payment workflows.
+
+- Coffee business storefronts
+- Product and inventory management
+- Order management
+- Payment integrations
+- Backend APIs
+
+### 🛒 Santos Auto Parts
+[santosautoparts.com](https://www.santosautoparts.com/)
+
+An e-commerce experience for automotive parts, with a focus on usability, product discovery, and performance.
+
+---
+
+## ☕ Beyond the Code
+
+I'm deeply involved in specialty coffee, particularly roasting, sensory evaluation, and coffee education.
+
+This interest has influenced some of the products I build. I enjoy exploring how technology can improve coffee education, commerce, traceability, and the broader coffee value chain.
+
+Through **Code and Coffee Club**, I also explore the intersection of software development, learning, and the craft of coffee.
+
+For me, engineering and coffee share something important: both reward precision, experimentation, consistency, and craftsmanship.
+
+---
+
+## 🔭 What I'm Focused On
+
+- Building practical SaaS products and business systems.
+- Designing scalable backend architectures and APIs.
+- Improving digital commerce and payment infrastructure for African businesses.
+- Exploring technology for specialty coffee, traceability, and education.
+- Building better products through thoughtful UI/UX and product thinking.
+
+---
+
+## 🌍 Let's Connect
+
+I'm always interested in conversations around software engineering, product development, business systems, and coffee technology.
+
+- **Portfolio:** [simonmwangi.com](https://www.simonmwangi.com/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/simon-mwangi-382a70173/)
+- **X:** [@WangenyeSimon](https://x.com/WangenyeSimon)
+- **YouTube:** [Code and Coffee Club](https://youtube.com/@thecodeandcoffeeclub)
+- **Email:** [hello@simonmwangi.com](mailto:hello@simonmwangi.com)
+
+---
+
+**Let's build useful things. Let's solve real problems. Let's brew. ☕💻**
